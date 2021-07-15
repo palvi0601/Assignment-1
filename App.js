@@ -6,7 +6,7 @@ import Button from "./Button"
 const App=()=> {
     return ( 
         <div>
-           <h1 className = "heading"> Hi Youtube Viewers </h1>
+           <h1 className = "heading"> Hello World </h1>
            <h2 className = "subheading"> Welcome to ReactJS </h2>
            <h1 className = "main"> ReactJS</h1>
            <div className = "alignment">
